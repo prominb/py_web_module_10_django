@@ -6,3 +6,7 @@ Django first view
 ```python3 manage.py runserver```
 
 ```python3 manage.py startapp polls```
+
+`python manage.py migrate`
+
+`python manage.py createsuperuser`
